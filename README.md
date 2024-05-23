@@ -3,3 +3,4 @@ This is a web application for increasing the efficiency of the gym management an
 
 Frontend: HTML and CSS
 Backend: PHP
+Database: mySQL
